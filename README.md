@@ -1,8 +1,12 @@
-# React-portfolio
+# Biography
+Included is my biography and professional portfolio
+Welcome to the Wonderful World of Sterling!
 
-A boilrplate react portfolio to showcase your projects and work
+## Includes:
 
+### Biography:
+All about me 
 
-Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
+### Portfolio:
+Links to a few of my favorite projects thus far, as well as link to download my resume.
 
-![](test.gif)
