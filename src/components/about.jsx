@@ -11,8 +11,8 @@ class About extends React.Component {
         {
           id: "JavaScript_skill",
           content: "JavaScript",
-          porcentage: "90%",
-          value: "90"
+          porcentage: "75%",
+          value: "75"
         },
         { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
         {
@@ -44,17 +44,17 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "A well-seasoned Restaurant Manager, shifting into the wonderful world of web development. With over a decade in management, I am in process of learning full stack coding and web development. "
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Taking a full stack web coding boot camp through the University of Denver, I am currently seeking an entry level position into the tech industry. I've always had an interest in how web pages were created and maintained, now finally taking the plunge and eager to learn all I can about this whole new world!"
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "After graduating from Johnson & Wales University with a AS in Culinary Arts and a BS in Business Management, I moved to California to pursue opportunities within the industry. My journey also took me to Georgia and to Florida before finally returning to my home-state of beautiful Colorado, where I currently reside. Now I am excited to pursue my goal of becoming a full stack web developer!"
         }
       ]
     };
