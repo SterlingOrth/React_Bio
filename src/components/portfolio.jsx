@@ -1,7 +1,7 @@
 import React from "react";
 
 //import stock
-import stock from "../img/image1.jpg";
+import stock from "../img/RandomPass.png";
 import stock1 from "../img/image2.jpg";
 import stock2 from "../img/image3.jpg";
 import stock3 from "../img/image4.jpg";
@@ -18,8 +18,7 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Portfolio</h3>
                 <p className="subtitle-a">
-                  Incididunt nostrud id aute culpa excepteur pariatur consequat
-                  elit culpa nulla enim anim incididunt.
+                  Check out some of my projects!
                 </p>
                 <div className="line-mf"></div>
               </div>
@@ -35,10 +34,10 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Random Password Generator</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap ReactJS
+                            HTML5 CSS3
                           </span>
                         </div>
                       </div>
@@ -50,7 +49,7 @@ class Portfolio extends React.Component {
                     </div>
                   </div>
                 </a>
-                <a
+                {/* <a
                   href={stock1}
                   data-lightbox="gallery-vmarine"
                   style={{ display: "none" }}
@@ -84,14 +83,14 @@ class Portfolio extends React.Component {
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
-                </a>
+                </a> */}
               </div>
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={stock} data-lightbox="gallery-aguadeluz">
+                <a href={stock2} data-lightbox="gallery-aguadeluz">
                   <div className="work-img">
-                    <img src={stock} alt="" className="img-fluid" />
+                    <img src={stock2} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
